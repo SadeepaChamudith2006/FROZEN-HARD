@@ -1,18 +1,18 @@
 {
 
-"BOT_NAME": "FROZEN-MD",
+"BOT_NAME": "DARK SHADOW MD",
 "VERSION": "2.0.0",
-"CREATED BY": "DARKYASIYAXTEAM",
+"CREATED BY": "DARKSHADOWXTEAM",
   
 "replyMsg": {
   
-  "giveme": "*Please give me text ❓*",
+  "giveme": "*නමක් දීපන් යකෝ හොයන්න ❓*",
 
   "giveut": "*Please give me Url or Text ❓*",
 
   "imgmg": "*Reply to a photo !*",
   
-  "not_fo": "*❌ I Couldn't find anything :(*",
+  "not_fo": "*❌ හොයාගන්න නෑනෙ යකෝ, නම බලපන් ආයෙ :(*",
 
   "url": "*Please give me Url ❓*",
   
@@ -26,7 +26,7 @@
 
   "fb_url": "*Please give me fb url ⁉*",
 
-  "size_big": "*File size is too big ❌*",
+  "size_big": "*අම්මෝ ෆයිල් එකේ ලොකු ❌*",
 
   "own_cmd": "*This is Owner Commad ‼*",
 
@@ -58,7 +58,7 @@
 
   "ald_reapprove_alljid": "*All Jid approve reject ✔*",
 
-  "moviex_reqowner": "```This Is DARKYASIYAXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
+  "moviex_reqowner": "```This Is DARKSHADOWXTEAM Official Movie Bot ❗```\n*You cannot use any commands here without the owner's permission ⛔*",
 
   "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact FROZEN-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
